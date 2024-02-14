@@ -80,6 +80,7 @@ header {
 
  #todo-form p,
  #edit-form p {
+    color: ;
     margin-bottom: .5rem;
     font-weight: bold;
  }
@@ -90,6 +91,7 @@ header {
 
  .form-control input {
     margin-right: .3rem;
+    color: #050e10;
  }
 
  #edit-cancel-btn {
@@ -124,6 +126,7 @@ header {
  #search input {
     width: 100%;
     margin-right: .3rem;
+    color: #050e10;
  }
 
  #filter {
